@@ -23,7 +23,7 @@ Full-Stack Engineer with a passion for building high-performance applications an
 ### 📫 Let's Connect!
 - **Website:** [amanenime.site](https://amanenime.my.id)
 - **LinkedIn:** [Mallss](https://linkedin.com/in/mallssdev)
-- **Email:** [emailkamu@gmail.com](mailto:akmalsad45@gmail.com)
+- **Email:** [mallssz03@gmail.com](mailto:mallssz03@gmail.com)
 
 ---
 
