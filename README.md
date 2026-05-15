@@ -7,7 +7,7 @@ Full-Stack Engineer with a passion for building high-performance applications an
 ### 🚀 Featured Projects
 - **[AmaneNime Streaming](https://amanenime.my.id)** - High-performance anime streaming platform built with FastAPI & Flutter.
 - **[AmaneNime Store](https://store.amanenime.my.id)** - Premium digital services and game top-up platform.
-- **[AmaneNime Komik](https://komikzone.amanenime.my.id)** - Multi-session WhatsApp Gateway API.
+- **[AmaneNime Komik](https://komikzone.amanenime.my.id)** - High Quality and High-perfomance comic reader.
 
 ### 🛠️ Tech Stack & Tools (VibeCoding Only)
 - **Backend:** Python (FastAPI), Node.js (Express)
