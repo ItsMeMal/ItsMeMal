@@ -21,7 +21,7 @@ Full-Stack Engineer with a passion for building high-performance applications an
 - 🐧 **ARM Optimization:** Running servers on low-end hardware (STB).
 
 ### 📫 Let's Connect!
-- **Website:** [amanenime.site](https://amanenime.my.id)
+- **Website:** [AmaneNime](https://amanenime.my.id)
 - **LinkedIn:** [Mallss](https://linkedin.com/in/mallssdev)
 - **Email:** [mallssz03@gmail.com](mailto:mallssz03@gmail.com)
 
