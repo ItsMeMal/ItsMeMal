@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/banner.svg" alt="Mallssz - Independent Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/banner-3d.svg" alt="Mallssz - Independent Developer" width="100%"/>
 
 <a href="https://github.com/ItsMeMal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Halo%2C+saya+Mallssz+%F0%9F%91%8B;Membangun+bot+%26+tools+automation+%F0%9F%A4%96;Lagi+ngerjain+SoundWave+%F0%9F%8E%A7;Node.js+%7C+Python+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
@@ -13,57 +13,43 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 👋 Tentang Saya
 
 ```js
 const mallssz = {
   role: "Independent Developer",
-  fokus: ["Bot WhatsApp & Telegram", "Automation tools", "Platform web", "Mobile Apps"],
+  fokus: ["Bot WhatsApp & Telegram", "Automation tools", "Platform web"],
   bahasaUtama: ["JavaScript / TypeScript", "Python"],
-  sedangDikerjakan: "Nexus-Chan - Versi Aplikasi Mobile",
+  sedangDikerjakan: "SoundWave — website musik ala Spotify 🎧",
   sedangDipelajari: ["AI agent", "Arsitektur backend", "DevOps"],
   bahasa: "Indonesia 🇮🇩",
   motto: "Kalau bisa diotomatisasi, kenapa harus manual?",
 };
 ```
 
----
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,react,vite,tailwind,express,firebase,linux,git,vercel,cloudflare&perline=7" alt="Tech Stack"/>
-
+  <img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/tech-cubes.svg" alt="Tech stack: JavaScript, TypeScript, Node.js, Python, React, Vite, Tailwind, Express, Firebase, Linux" width="100%"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🚀 Project Pilihan
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>🎧 <a href="https://github.com/ItsMeMal/SoundWave">SoundWave</a></h3>
-      <p>Website streaming musik mirip Spotify dengan desain dark premium. Ada pencarian, playlist, lirik, queue, liked songs, dan login Firebase.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-      </p>
-      <a href="https://github.com/ItsMeMal/SoundWave">🔗 Lihat repo</a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/ItsMeMal/SoundWave">
+  <img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/nowplaying.svg" alt="SoundWave — website streaming musik mirip Spotify" width="100%"/>
+</a>
 
 <div align="center">
   <a href="https://github.com/ItsMeMal?tab=repositories"><b>Lihat semua repository →</b></a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 📊 Statistik GitHub
 
@@ -77,19 +63,15 @@ const mallssz = {
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/divider.svg" alt="" width="100%"/>
 
-## 🐍 Grafik Kontribusi
+## 🔥 Grafik Kontribusi
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/output/github-snake.svg">
-    <img alt="Snake kontribusi" src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/output/github-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://ghchart.rshah.org/06b6d4/ItsMeMal" alt="Contribution chart" width="100%"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/divider.svg" alt="" width="100%"/>
 
 ## 🤝 Mari Terhubung
 
@@ -103,6 +85,6 @@ const mallssz = {
 
 > *"Code is poetry, automation is magic."* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:4c1d95,100:06b6d4&height=100&section=footer" alt="footer"/>
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/footer-wave.svg" alt="Terima kasih sudah mampir" width="100%"/>
 
 </div>
