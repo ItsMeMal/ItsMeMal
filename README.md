@@ -11,7 +11,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ItsMeMal&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/followers/ItsMeMal?label=Followers&style=flat-square&logo=github" alt="followers"/>
 
 </div>
 
@@ -81,11 +81,11 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=ItsMeMal&theme=tokyonight&hide_border=true" alt="streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ItsMeMal&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
 
 </div>
 
