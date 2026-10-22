@@ -79,10 +79,14 @@ const mallssz = {
 
 ---
 
-## 🔥 Grafik Kontribusi
+## 🐍 Grafik Kontribusi
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/06b6d4/ItsMeMal" alt="Contribution chart" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/output/github-snake.svg">
+    <img alt="Snake kontribusi" src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/output/github-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
