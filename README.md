@@ -76,16 +76,11 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsMeMal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeMal&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ItsMeMal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=ItsMeMal&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ItsMeMal&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+<img src="https://streak-stats.demolab.com?user=ItsMeMal&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
