@@ -93,12 +93,8 @@
 
 ## 🔥 Aktivitas Terbaru
 
-<details>
-<summary><b>Klik untuk lihat grafik kontribusi</b></summary>
-<br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsMeMal&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/06b6d4/ItsMeMal" alt="Contribution chart" width="100%"/>
 </div>
 
 </details>
