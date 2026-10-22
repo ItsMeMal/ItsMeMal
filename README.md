@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner gelombang -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=NAMA%20KAMU&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Independent%20Developer%20%E2%80%A2%20Bot%20%E2%80%A2%20Automation%20%E2%80%A2%20Web&descAlignY=60&descSize=16" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mallssz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Independent%20Developer%20%E2%80%A2%20Bot%20%E2%80%A2%20Automation%20%E2%80%A2%20Web&descAlignY=60&descSize=16" alt="banner"/>
 
 <!-- Teks mengetik -->
 <a href="https://github.com/ItsMeMal">
