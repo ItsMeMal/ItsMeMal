@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c10,50:4c1d95,100:06b6d4&height=220&section=header&text=Mallssz&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Independent%20Developer%20%E2%80%A2%20Bots%20%E2%80%A2%20Automation%20%E2%80%A2%20Web&descAlignY=58&descSize=17" alt="banner"/>
+<img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/banner.svg" alt="Mallssz - Independent Developer" width="100%"/>
 
 <a href="https://github.com/ItsMeMal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=620&lines=Halo%2C+saya+Mallssz+%F0%9F%91%8B;Membangun+bot+%26+tools+automation+%F0%9F%A4%96;Lagi+ngerjain+SoundWave+%F0%9F%8E%A7;Node.js+%7C+Python+%7C+React+%7C+TypeScript" alt="Typing SVG"/>
