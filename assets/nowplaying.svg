@@ -31,8 +31,8 @@
 <circle cx="130" cy="105" r="78" fill="url(#shine)"/>
 </g>
 <text class="k" x="260" y="62">SEDANG DIKERJAKAN</text>
-<text class="t" x="258" y="108">SoundWave</text>
-<text class="d" x="260" y="136">Website streaming musik mirip Spotify, dark premium.</text>
+<text class="t" x="258" y="108">Ai Voice</text>
+<text class="d" x="260" y="136">Ai Voice Assistant.</text>
 <text class="s" x="260" y="160">React  •  TypeScript  •  Tailwind  •  Firebase</text>
 <rect x="260" y="178" width="560" height="6" rx="3" fill="#252540"/>
 <rect class="fill" x="260" y="178" width="560" height="6" rx="3" fill="url(#bar)"/>
