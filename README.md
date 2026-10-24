@@ -41,8 +41,8 @@ const mallssz = {
 
 ## 🚀 Project Pilihan
 
-<a href="https://github.com/ItsMeMal/SoundWave">
-  <img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/nowplaying.svg" alt="SoundWave — website streaming musik mirip Spotify" width="100%"/>
+<a href="https://github.com/ItsMeMal">
+  <img src="https://raw.githubusercontent.com/ItsMeMal/ItsMeMal/main/assets/nowplaying.svg" alt="AI voice — Ai Voice Realtime" width="100%"/>
 </a>
 
 <div align="center">
