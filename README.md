@@ -22,7 +22,7 @@ const mallssz = {
   role: "Independent Developer",
   fokus: ["Bot WhatsApp & Telegram", "Automation tools", "Platform web"],
   bahasaUtama: ["JavaScript / TypeScript", "Python"],
-  sedangDikerjakan: "SoundWave — website musik ala Spotify 🎧",
+  sedangDikerjakan: "AI Voice Assistant",
   sedangDipelajari: ["AI agent", "Arsitektur backend", "DevOps"],
   bahasa: "Indonesia 🇮🇩",
   motto: "Kalau bisa diotomatisasi, kenapa harus manual?",
